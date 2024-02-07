@@ -1,4 +1,4 @@
-# Modelo de Skill Alexa para integrar o ChatGPT da OpenAI
+# Modelo de Skill Alexa para integrar o ChatGPT da OpenAI (Projeto Re-uploadead do Alexandre Mendonça https://www.youtube.com/watch?v=oKzksBqcpAA)
 Use o ChatGPT-4 na Alexa 😊  
 
 # Instruções
